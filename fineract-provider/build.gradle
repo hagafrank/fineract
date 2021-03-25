@@ -256,7 +256,7 @@ bootJar {
 }
 
 bootWar {
-    enabled = false
+    enabled = true
 }
 
 tasks.withType(Tar) {
